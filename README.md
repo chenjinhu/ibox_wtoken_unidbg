@@ -33,8 +33,10 @@ java -jar target\unidbg-server-0.0.2.jar
 
 
 ### 感谢
-https://github.com/zhkl0228/unidbg
 各种项目实战笔记,逆向学习笔记.干活满满
 ![](http://img.zhuoyue360.com//image-20220510150153371.png)
+
+强烈推荐下,肉师傅的知识星球
+![image-20220510151412970](http://img.zhuoyue360.com//image-20220510151412970.png)
 学unidbg强烈推荐龙哥的星球，更新频率高
 ![](https://img2020.cnblogs.com/blog/736399/202111/736399-20211108182436999-806188411.jpg)
